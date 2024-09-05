@@ -33,7 +33,15 @@
 
 <h3 align="left">📄 Resume:</h3>
 <p align="left">
-  You can view my resume here - (https://github.com/DevChaudhary007/Resume/blob/main/DevChaudhary-CV.pdf).
+  You can view my resume [here](https://github.com/DevChaudhary007/Resume/blob/main/DevChaudhary-CV.pdf).
+</p>
+
+<h3 align="left">Most Used Languages:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  <!-- You can add more icons for other languages if needed -->
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devchaudhary007&show_icons=true&locale=en&layout=compact" alt="devchaudhary007" /></p>
